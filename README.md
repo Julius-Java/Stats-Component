@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
