@@ -45,5 +45,5 @@ Users should be able to:
 - [Boostrap Card Template](https://getbootstrap.com/docs/5.0/components/card/)
 
 ## Author
-- Frontend Mentor - [@Julius-Java](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Julius-Java](https://www.frontendmentor.io/profile/Julius-Java)
 - Twitter - [@Julius_Java00](https://www.twitter.com/julius_java00)
